@@ -13,14 +13,6 @@ import { Container } from 'react-bootstrap';
 
 function App() {
   return (
-    /*  <div>
-      <CustomNavbar /> 
-      <Welcome />
-      <AllTheBooks /> 
-      <MyFooter />      
-    </div>
-  );
-} */
 
     <>
       <Container fluid className="position-sticky sticky-top">
